@@ -1,4 +1,4 @@
-## Qixuan Wang
+## Qixuan Wang HW2
 
 ### URL: https://github.com/qixuanwang-nu/Qixuan-Wang-Deep-Q-Network
 
