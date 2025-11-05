@@ -1,3 +1,7 @@
+## Qixuan Wang
+
+### URL: https://github.com/qixuanwang-nu/Qixuan-Wang-Deep-Q-Network
+
 **DQN: CartPole and MsPacman**
 
 - Implements Deep Q-Network (DQN) for CartPole and MsPacman.
